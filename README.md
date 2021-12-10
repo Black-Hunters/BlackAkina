@@ -176,7 +176,7 @@ Userbot නිසා; ඔබේ WhatsApp ගිණුම තහනම් කළ 
 
 [![Yusuf Usta](https://github.com/yusufusta.png?size=100)](https://www.fusuf.codes) | [![PYMaster-ft](https://github.com/PYMaster-ft.png?size=100)](https://github.com/PYMaster-ft) | [![anuja2003](https://github.com/anuja2003.png?size=100)](https://github.com/anuja2003) | [![Hiruwaaa2](https://github.com/Hiruwaaa2.png?size=100)](https://github.com/Hiruwaaa2git ) | [![CW4RR10R](https://github.com/CW4RR10R.png?size=100)](https://github.com/CW4RR10R)
 ----|----|----|----|----
-[Yusuf Usta](https://t.me/fusufs) | [Phaticusthiccy](https://github.com/phaticusthiccy) | [Alperen Ç](https://t.me/xacnio) | [justinthoms](https://t.me/Mr_justinthomas) | [CW4RR10R](https://github.com/CW4RR10R)
+[Yusuf Usta](https://t.me/fusufs) | [PYMaster-ft](https://github.com/PYMaster-ft) | [anuja2003](https://github.com/anuja2003) | [Hiruwaaa2](https://github.com/Hiruwaaa2) | [CW4RR10R](https://github.com/CW4RR10R)
 Author, Base, Bug Fixes, Modules | Developer, Base, Bug Fixes, Modules | Bug Fixes, Modules, Idea | Modules, Idea | Modules
 
 ## Thanks To
