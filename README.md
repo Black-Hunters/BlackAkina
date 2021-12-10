@@ -108,7 +108,7 @@ The user is responsible.
 ```
 
 <div align="center">
-  <img src="https://telegra.ph/file/23fdfc1f84ca6fe23e178.jpg" width="200" height="200">
+  <img src="https://telegra.ph/file/5f87fb021083c2fec10a4.gif" width="699" height="167">
   <h1>🐺 Akina 🌹</h1>
 </div>
 <p align="center">
