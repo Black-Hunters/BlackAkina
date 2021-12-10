@@ -6,11 +6,11 @@
 <a href="#"><img title="Akina" src="https://img.shields.io/badge/Akina-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Ameen-ahd"><img title="Author" src="https://img.shields.io/badge/Author-PYmaster-ft/Akina?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Black-Hunters"><img title="Author" src="https://img.shields.io/badge/Author-Black-Hunters/Akina?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/PYMaster-ft">Akina</a> to make it public
+Project created by <a href="https://github.com/Black-Hunters/BlackAkina">Akina</a> to make it public
     <br>
        | © |
         Reserved |
@@ -20,13 +20,13 @@ Project created by <a href="https://github.com/PYMaster-ft">Akina</a> to make it
 ----
 
   <p align="center">
-  <a href="https://github.com/PYMaster-ft/Akina">
-    <img src="https://img.shields.io/github/repo-size/Ameen-ahd/Ambot?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="https://github.com/Black-Hunters/BlackAkina">
+    <img src="https://img.shields.io/github/repo-size/https://github.com/Black-Hunters/BlackAkina?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/Ameen-ahd/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ameen-ahd?color=red&style=flat-square"></a>
-<a href="https://github.com/Ameen-ahd/Ambot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Ameen-ahd/Ambot?color=red&style=flat-square"></a>
-<a href="https://github.com/Ameen-ahd/Ambot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ameen-ahd/Ambot?color=red&style=flat-square"></a>
-<a href="https://github.com/PYMaster-ft/Akina/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Ameen-ahd/Ambot?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/PYMaster-ft/followers"><img title="Followers" src="https://img.shields.io/github/followers/https://github.com/Black-Hunters/BlackAkina?color=red&style=flat-square"></a>
+<a href="https://github.com/Black-Hunters/BlackAkina/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Black Hunter/BlackAkina?color=red&style=flat-square"></a>
+<a href="https://github.com/Black-Hunters/BlackAkina/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Black-Hunters/BlackAkina?color=red&style=flat-square"></a>
+<a href="https://github.com/PYMaster-ft/Akina/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Black-Hunters/BlackAkina?label=Watchers&color=red&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
@@ -174,7 +174,7 @@ Userbot නිසා; ඔබේ WhatsApp ගිණුම තහනම් කළ 
 
 ## Developers
 
-[![Yusuf Usta](https://github.com/yusufusta.png?size=100)](https://www.fusuf.codes) | [![Phaticusthiccy](https://github.com/phaticusthiccy.png?size=100)](https://github.com/phaticusthiccy) | [![Alperen Ç](https://github.com/xacnio.png?size=100)](https://github.com/xacnio) | [![Justin Thoms](https://github.com/justinthoms.png?size=100)](https://github.com/justinthoms) | [![CW4RR10R](https://github.com/CW4RR10R.png?size=100)](https://github.com/CW4RR10R)
+[![Yusuf Usta](https://github.com/yusufusta.png?size=100)](https://www.fusuf.codes) | [![PYMaster-ft](https://github.com/PYMaster-ft.png?size=100)](https://github.com/PYMaster-ft) | [![anuja2003](https://github.com/anuja2003.png?size=100)](https://github.com/anuja2003) | [![Hiruwaaa2](https://github.com/Hiruwaaa2.png?size=100)](https://github.com/Hiruwaaa2git ) | [![CW4RR10R](https://github.com/CW4RR10R.png?size=100)](https://github.com/CW4RR10R)
 ----|----|----|----|----
 [Yusuf Usta](https://t.me/fusufs) | [Phaticusthiccy](https://github.com/phaticusthiccy) | [Alperen Ç](https://t.me/xacnio) | [justinthoms](https://t.me/Mr_justinthomas) | [CW4RR10R](https://github.com/CW4RR10R)
 Author, Base, Bug Fixes, Modules | Developer, Base, Bug Fixes, Modules | Bug Fixes, Modules, Idea | Modules, Idea | Modules
