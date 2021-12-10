@@ -21,9 +21,9 @@ Project created by <a href="https://github.com/Black-Hunters/BlackAkina">Akina</
 
   <p align="center">
   <a href="https://github.com/Black-Hunters/BlackAkina">
-    <img src="https://img.shields.io/github/repo-size/https://github.com/Black-Hunters/BlackAkina?color=green&label=Repo%20total%20size&style=plastic">
+    <img src="https://img.shields.io/github/repo-size/Black-Hunters/BlackAkina?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/PYMaster-ft/followers"><img title="Followers" src="https://img.shields.io/github/followers/https://github.com/PYMaster-ft?color=red&style=flat-square"></a>
+<a href="https://github.com/PYMaster-ft/followers"><img title="Followers" src="https://img.shields.io/github/followers/PYMaster-ft?color=red&style=flat-square"></a>
 <a href="https://github.com/Black-Hunters/BlackAkina/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Black Hunter/BlackAkina?color=red&style=flat-square"></a>
 <a href="https://github.com/Black-Hunters/BlackAkina/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Black-Hunters/BlackAkina?color=red&style=flat-square"></a>
 <a href="https://github.com/PYMaster-ft/Akina/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Black-Hunters/BlackAkina?label=Watchers&color=red&style=flat-square"></a>
